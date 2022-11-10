@@ -21,7 +21,6 @@
         android:hint="@string/senha"
         android:inputType="textPersonName"
         android:paddingStart="20sp"
-        android:paddingEnd="20sp"
         android:shadowColor="#00FFFFFF"
         android:textAlignment="gravity"
         android:textSize="20sp"
@@ -29,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName"
-        tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck" />
+        tools:ignore="RtlSymmetry,TextContrastCheck,TextContrastCheck,TouchTargetSizeCheck" />
 
     <TextView
         android:id="@+id/textView"

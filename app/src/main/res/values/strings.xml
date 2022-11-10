@@ -8,4 +8,9 @@
     <string name="recuperar_senha">Recuperar senha</string>
     <string name="e_mail">E-mail</string>
     <string name="senha">Senha</string>
+    <string name="todo">TODO</string>
+    <string name="perfil">Perfil</string>
+    <string name="home">Home</string>
+    <string name="treinos">Treinos</string>
+    <string name="consultas">Consultas</string>
 </resources>
